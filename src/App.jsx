@@ -129,15 +129,7 @@ function App() {
           <Controller />
         </main>
         <footer className="w-full h-[60px] bg-slate-800 flex items-center text-stone-100 justify-center">
-          <p className="text-center">
-            <span className="text-xl">🎉 수고 많으셨습니다!</span>
-            <br />
-            <span className="text-sm">
-              이번 과제는 현업에서 사용되는 기술들을 직접 구현해보는 도전적인 프로젝트였습니다.
-              <br />
-              여러분의 노력과 성장이 자랑스럽습니다. 앞으로도 계속해서 도전하고 성장하세요!
-            </span>
-          </p>
+          <p>&copy; OZ-CodingSchool</p>
         </footer>
       </div>
       {/* DragOverlay: 드래그 중인 항목을 시각적으로 표시 */}
