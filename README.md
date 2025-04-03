@@ -1,12 +1,19 @@
-# React + Vite
+## 문제 요구 사항
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **3단계 [drag & drop 설명](https://www.notion.so/3-drag-drop-1cacaf5650aa80289c6ff437fe869aeb?pvs=21)과 함께 구현해보기를 읽으면서 과제를 작성하여 제출하기.**
+- **동작은 위의 사진과 동일한 방식으로 구현되어야 합니다.**
+- **스타일은 자유롭게 변경할 수 있습니다.**
 
-Currently, two official plugins are available:
+## 주의 사항
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<aside>
 
-## Expanding the ESLint configuration
+### 해당 과제는 3단계로 구성되어 있습니다.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+각 과제는 연동되어 이전 단계에 제출한 과제를 추가적으로 수정하면서 과제를 진행하게 됩니다. **각 커밋을 기준으로 과제의 제출을 판단**하고 있으므로, 과제 작성시 커밋을 통한 구별이 필요합니다.
+
+### 3단계 과제는 난이도가 어렵습니다.
+
+**구현 가이드** 문서를 확인하고도 구현하는데에 차질이 있다면, dnd 공식 가이드 문서와 답안 레포지토리를 확인해보면서 진행하시기 바랍니다. 답안 레포지토리를 확인하면서 작성하는걸 권장드립니다.
+
+</aside>
